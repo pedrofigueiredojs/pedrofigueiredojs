@@ -19,7 +19,7 @@
   <img style="margin-right:10px;" align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div><br/>
 
-Apaixonado por criar coisas e resolver problemas.
+Apaixonado por criar coisas e resolver problemas usando a programação.
 
 # Últimos posts:
 - [Meu Primeiro Post](#)<br/>
