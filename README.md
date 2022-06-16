@@ -17,7 +17,3 @@
   
   <img style="margin-right:10px;" align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div><br/>
-
-# Últimos posts:
-- [Meu Primeiro Post](#)<br/>
-- [Meu Segundo Post](#)<br/>
