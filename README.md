@@ -17,3 +17,5 @@
   
   <img style="margin-right:10px;" align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofigueiredojs&layout=compact&theme=dracula)](https://github.com/pedrofigueiredojs/github-readme-stats)
