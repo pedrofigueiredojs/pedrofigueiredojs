@@ -24,3 +24,7 @@ Apaixonado por criar coisas e resolver problemas usando a programação.
 # Últimos posts:
 - [Meu Primeiro Post](#)<br/>
 - [Meu Segundo Post](#)<br/>
+
+<div style="display: block;">
+  <img style="width: 100%;" alt="bart simpson .gif" src="images/bart-gif.gif">
+</div>
