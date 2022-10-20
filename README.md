@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Pedro ✌️
 
-<div style="display: block;">
-  <img style="width: 100%;" alt="bart simpson .gif" src="images/bart-gif.gif">
-</div>
-
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: flex"><br/>
