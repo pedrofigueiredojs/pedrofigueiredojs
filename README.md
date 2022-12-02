@@ -12,7 +12,9 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 
 - ❤️ I love writing JavaScript and creating new and interesting things
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/pedrofigueiredojs/)
+- 💬 Ask me about anything: [Linkedin](https://www.linkedin.com/in/pedrofigueiredojs/) or [Twitter](https://www.twitter.com/pedrofigueiredojs/)
+
+- :memo: My blog: [Linkedin](pedrofigueiredo.dev/blog)
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
