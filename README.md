@@ -25,7 +25,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofigueiredojs&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Pedro github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofigueiredojs&layout=compact&theme=dracula&hide_border=true" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofigueiredojs&show_icons=true&include_all_commits=true&hide_border=true" alt="Pedro github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofigueiredojs&hide_border=true" /> |
 | ------------- | ------------- |
 
 <br />
