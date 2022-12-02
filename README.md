@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" alt="Hello, I'm Pedro!" src="https://github.com/pedrofigueiredojs/pedrofigueiredojs/blob/main/images/header.png?raw=true" /></a></p>
+<p align="center"><img width="40%" alt="Hello, I'm Pedro!" src="https://github.com/pedrofigueiredojs/pedrofigueiredojs/blob/main/images/header.png?raw=true" /></a></p>
 
 <br />
 
